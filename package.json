@@ -1,0 +1,27 @@
+{
+  "name": "lab-linked-lists",
+  "version": "1.0.0",
+  "description": "![cf](http://i.imgur.com/7v5ASc8.png) Linked List Data Structure ================================================================",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --verbose --coverage --watchAll",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashley-breunich/lab-linked-lists.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashley-breunich/lab-linked-lists/issues"
+  },
+  "homepage": "https://github.com/ashley-breunich/lab-linked-lists#readme",
+  "dependencies": {
+    "eslint": "^5.7.0",
+    "jest": "^23.6.0",
+    "lint": "^1.1.2"
+  }
+}
