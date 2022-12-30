@@ -21,7 +21,7 @@
   "homepage": "https://github.com/ashley-breunich/lab-linked-lists#readme",
   "dependencies": {
     "eslint": "^5.7.0",
-    "jest": "^23.6.0",
+    "jest": "^29.3.1",
     "lint": "^1.1.2"
   }
 }
